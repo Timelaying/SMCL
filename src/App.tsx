@@ -3,7 +3,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>App (this is the app.tsx) it is rendered in the main</div>
   )
 }
 
