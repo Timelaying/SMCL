@@ -8,10 +8,10 @@
   * {
     @apply box-border list-none p-0 m-0 scroll-smooth;
   }
-
+  /*kindly find how you can make the background black letter*/
   /*body {
     @apply bg-dark-1 text-white min-h-screen font-inter;
-  }*/
+  }*/ 
 }
 
 @layer utilities {
