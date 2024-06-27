@@ -7,7 +7,7 @@ const App = () => {
   return (
   <main className="flex h-screen">
     <Routes>
-      
+      <h1> testing </h1>
     </Routes>
 
   </main>
