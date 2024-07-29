@@ -7,5 +7,5 @@ const SignupForm = () => {
   )
 }
 
-export default SignupForm //trying to fi//
+export default SignupForm //trying to find the solutin//
     
